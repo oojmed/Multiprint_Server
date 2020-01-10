@@ -1,4 +1,7 @@
 {
+  "scripts": {
+     "start": "yarn start"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
